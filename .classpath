@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="aula-spring-data-jpa/src/main/java"/>
+	<classpathentry kind="src" path="aula-spring-data-jpa/src/test/java"/>
+	<classpathentry kind="src" path="lab-padroes-projeto-spring/.mvn/wrapper"/>
+	<classpathentry kind="src" path="lab-padroes-projeto-spring/src/main/java"/>
+	<classpathentry kind="src" path="lab-padroes-projeto-spring/src/test/java"/>
+	<classpathentry kind="src" path="padroes-projeto-java/src"/>
+	<classpathentry kind="src" path="primeiros-passos/src/main/java"/>
+	<classpathentry kind="src" path="primeiros-passos/src/test/java"/>
+	<classpathentry kind="lib" path="aula-spring-data-jpa/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="primeiros-passos/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="output" path="aula-spring-data-jpa/target/classes"/>
+</classpath>
